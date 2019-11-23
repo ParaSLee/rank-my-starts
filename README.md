@@ -52,6 +52,13 @@
 
 > https://github.com/Advanced-Frontend/Daily-Interview-Question
 
+**JS 函数式编程指南**
+
+> https://github.com/llh911001/mostly-adequate-guide-chinese
+
+**TypeScript 入门教程**
+
+> https://github.com/xcatliu/typescript-tutorial
 
 <br>
 
