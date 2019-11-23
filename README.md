@@ -42,7 +42,7 @@
 
 **当···时发生了什么？**
 
-> https://github.com/firekylin/firekylin
+> https://github.com/skyline75489/what-happens-when-zh_CN
 
 **JavaScript 轻量级函数式编程**
 
@@ -54,7 +54,12 @@
 
 
 <br>
+
+---
+
 <br>
+
+
 
 ## 工具
 
@@ -93,6 +98,8 @@
 
 <br>
 
+---
+
 <br>
 
 
@@ -116,6 +123,8 @@
 > https://github.com/firekylin/firekylin
 
 <br>
+
+---
 
 <br>
 
